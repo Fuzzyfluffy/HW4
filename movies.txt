@@ -104,3 +104,5 @@ Joe Pesci, Goodfellas, My Cousin Vinny
 Ralph Macchio, Karate Kid, My Cousin Vinny
 F. Murray Abraham, Amadeus, Scarface
 Walter Pidgeon, Mrs. Miniver, How Green Was My Valley
+Chris Pratt, Guardians of the Galaxy, The Lego Movie
+Michael Emerson, Person of Interest, The Dark Knight Returns, Lost
